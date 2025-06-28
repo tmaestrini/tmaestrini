@@ -16,14 +16,14 @@ Hi there, I'm Tobias 👋
                     
 ### Web & Socials
 <p align="left">
-      <a href="https://www.github.com/tmaestrini" target="_blank" rel="noreferrer">
+      <a href="https://www.tobias-maestrini.ch" target="_blank" rel="noreferrer">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/162283/world-wide-web.svg" />
           <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/162283/world-wide-web.svg" />
           <img src="https://www.svgrepo.com/show/162283/world-wide-web.svg" width="32" height="32" />
         </picture>
     </a>
-      <a href="https://www.tobias-maestrini.ch" target="_blank" rel="noreferrer">
+      <a href="https://www.github.com/tmaestrini" target="_blank" rel="noreferrer">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
