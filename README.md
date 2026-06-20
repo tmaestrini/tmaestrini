@@ -3,7 +3,7 @@ Hi there, I'm Tobias 👋
 
 👉 Microsoft365 Consultant 👨🏻‍💻 <br>
 👉 SharePoint & PowerPlatform • Architecture and Development <br>
-👉 Microsoft MVP (2024) 🏆<br>
+👉 Microsoft MVP (2024) Alumni 🏆<br>
 👉 stressed but happy father 🧍🏻‍♂️👭
 
 🌍  I'm based in Switzerland
